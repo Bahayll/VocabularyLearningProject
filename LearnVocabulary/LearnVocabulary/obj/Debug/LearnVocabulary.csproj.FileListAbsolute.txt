@@ -1,0 +1,10 @@
+E:\repos\LearnVocabulary\LearnVocabulary\bin\Debug\LearnVocabulary.exe.config
+E:\repos\LearnVocabulary\LearnVocabulary\bin\Debug\LearnVocabulary.exe
+E:\repos\LearnVocabulary\LearnVocabulary\bin\Debug\LearnVocabulary.pdb
+E:\repos\LearnVocabulary\LearnVocabulary\obj\Debug\LearnVocabulary.csproj.AssemblyReference.cache
+E:\repos\LearnVocabulary\LearnVocabulary\obj\Debug\LearnVocabulary.Form1.resources
+E:\repos\LearnVocabulary\LearnVocabulary\obj\Debug\LearnVocabulary.Properties.Resources.resources
+E:\repos\LearnVocabulary\LearnVocabulary\obj\Debug\LearnVocabulary.csproj.GenerateResource.cache
+E:\repos\LearnVocabulary\LearnVocabulary\obj\Debug\LearnVocabulary.csproj.CoreCompileInputs.cache
+E:\repos\LearnVocabulary\LearnVocabulary\obj\Debug\LearnVocabulary.exe
+E:\repos\LearnVocabulary\LearnVocabulary\obj\Debug\LearnVocabulary.pdb
